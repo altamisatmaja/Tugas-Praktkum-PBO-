@@ -1,0 +1,5 @@
+C:\Users\Altamis\source\repos\222410103043_Altamis Fattah Atmaja\222410103043_Altamis Fattah Atmaja\obj\Debug\net6.0\222410103043_Altamis Fattah Atmaja.csproj.AssemblyReference.cache
+C:\Users\Altamis\source\repos\222410103043_Altamis Fattah Atmaja\222410103043_Altamis Fattah Atmaja\obj\Debug\net6.0\222410103043_Altamis Fattah Atmaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altamis\source\repos\222410103043_Altamis Fattah Atmaja\222410103043_Altamis Fattah Atmaja\obj\Debug\net6.0\222410103043_Altamis Fattah Atmaja.AssemblyInfoInputs.cache
+C:\Users\Altamis\source\repos\222410103043_Altamis Fattah Atmaja\222410103043_Altamis Fattah Atmaja\obj\Debug\net6.0\222410103043_Altamis Fattah Atmaja.AssemblyInfo.cs
+C:\Users\Altamis\source\repos\222410103043_Altamis Fattah Atmaja\222410103043_Altamis Fattah Atmaja\obj\Debug\net6.0\222410103043_Altamis Fattah Atmaja.csproj.CoreCompileInputs.cache
